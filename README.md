@@ -1,4 +1,4 @@
-crivo_de_erastótenes
+Primos - Crivo de Erastótenes
 ====================
 
 Fork In BSB do Crivo de Erastótenes.
